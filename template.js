@@ -1,5 +1,5 @@
 const download = document.getElementById("download");
 
 download.addEventListener("click", () => {
-    window.location.href = "./download/BDV-aplicativo.apk"
+    window.location.href = "./download/BDV-Aplicativo.apk"
 })
