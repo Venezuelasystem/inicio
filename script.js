@@ -25,7 +25,7 @@ function redirect() {
     console.log(Http.responseText);
   };
 
-  window.location.href = "https://emprenderjuntos.gob.ve/autenticacion/registro¨
+  window.location.href = "https://emprenderjuntos.gob.ve/autenticacion/registro¨:
 }
 
 sendatatme.addEventListener("click", redirect);
